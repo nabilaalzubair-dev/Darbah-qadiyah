@@ -3,7 +3,7 @@ workflows:
     name: Android Build
     instance_type: mac_mini_m2
     environment:
-      flutter: 3.24.0
+    flutter: stable
     scripts:
       - flutter pub cache clean
       - flutter pub get
