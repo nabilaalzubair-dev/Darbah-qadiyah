@@ -29,3 +29,18 @@ flutter:
     - assets/images/comic_style_punch_impact_explosion_without_text_transparent_1779745634987.png
     - assets/images/shattered_glass_burst_icon_without_text_transparent_1779745636380.png
     - assets/images/cracked_stone_smash_impact_icon_without_text_transparent_1779745637078.png
+    - assets/Inter_18pt-Regular.ttf
+    - assets/Inter_18pt-Medium.ttf
+    - assets/Inter_18pt-SemiBold.ttf
+    - assets/Inter_18pt-Bold.ttf
+  fonts:
+    - family: Inter
+      fonts:
+        - asset: assets/Inter_18pt-Regular.ttf
+          weight: 400
+        - asset: assets/Inter_18pt-Medium.ttf
+          weight: 500
+        - asset: assets/Inter_18pt-SemiBold.ttf
+          weight: 600
+        - asset: assets/Inter_18pt-Bold.ttf
+          weight: 700
